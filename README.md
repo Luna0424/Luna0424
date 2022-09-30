@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luna0424
+- 👋 Hi, I’m Luna
 - 👀 I’m interested in baciclly everything
 - 🌱 I’m currently advancing my knowledge in c# and bash.
 - 📫 You can reach me at luna.nordbergh2@gmail.com
